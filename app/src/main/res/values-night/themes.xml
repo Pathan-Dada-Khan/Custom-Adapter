@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PlayStore" parent="Theme.AppCompat">
+        <item name="colorPrimary">#01875F</item>
+        <item name="colorPrimaryDark">#036C4D</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
